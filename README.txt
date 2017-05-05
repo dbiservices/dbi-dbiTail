@@ -1,7 +1,4 @@
-DBI Tail is a tool created by Philippe Schweitzer
-https://ch.linkedin.com/pub/philippe-schweitzer/87/ab/2bb
-
-Download available from this page: https://github.com/pschweitz/DBITail/releases
+Download available from this page: https://github.com/dbiservices/DBITail/
 
 You can find packaged builds with embedded Java, so run of software will be very straightforward.
 
@@ -31,8 +28,7 @@ It is released under Apache v2 License
  */
 
 Please visit GitHub page:
-https://github.com/pschweitz/DBITail
-
+https://github.com/dbiservices/DBITail/
 
 Requires java 8.0_60 or higher
 
