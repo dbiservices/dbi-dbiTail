@@ -1,4 +1,4 @@
-Download available from this page: https://github.com/dbiservices/DBITail/
+Download available from this page: https://github.com/dbiservices/dbi-dbiTail/
 
 You can find packaged builds with embedded Java, so run of software will be very straightforward.
 
@@ -28,7 +28,7 @@ It is released under Apache v2 License
  */
 
 Please visit GitHub page:
-https://github.com/dbiservices/DBITail/
+https://github.com/dbiservices/dbi-dbiTail/
 
 Requires java 8.0_60 or higher
 
